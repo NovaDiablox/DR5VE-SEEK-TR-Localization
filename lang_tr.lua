@@ -1,6 +1,6 @@
 return {
 	["state.waiting"] = "OYUNCULAR BEKLENİYOR",
-	["state.headstart"] = "ÜSTÜNLÜK",
+	["state.headstart"] = "HAZIRLIK",
 	["state.ongoing"] = "KALAN SÜRE",
 	["state.postround"] = "RAUNT BİTTİ",
 
